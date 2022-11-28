@@ -1,0 +1,29 @@
+
+.container {
+    padding: 20px;
+    margin: 20px;
+}
+h1,h3{
+    
+    padding: 0 0 0 35%; 
+}
+
+.tablecolumnborder{
+    padding: 1em;
+    border: 4px rgb(126, 127, 126) solid; 
+    background-color: rgb(175, 179, 175);
+    text-align: center;
+  vertical-align: middle;
+}
+.tablecolumndisable{
+    padding: 1em;
+    border: 4px rgb(97, 97, 97) solid; 
+    background-color: rgb(111, 111, 111);
+    text-align: center;
+  vertical-align: middle;
+    
+}
+.highlight{
+    background-color: rgb(13, 213, 30);
+}
+
